@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repository for a practical course on learning GitHub Copilot
 
 <!--
 **IngAlanSantacruz/IngAlanSantacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
